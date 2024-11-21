@@ -5,3 +5,4 @@ cache/
 *.pyc
 *.log
 __pycache__/
+*.out
